@@ -1,0 +1,6 @@
+This is a file
+that contains some words
+and is mean to be just an example
+to be used to practice
+with elixir streams
+and enums
